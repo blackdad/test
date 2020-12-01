@@ -23,5 +23,3 @@ http.createServer(function (req, res) {
     return res.end();
   }
 }).listen(8080);
-
-// TEST
